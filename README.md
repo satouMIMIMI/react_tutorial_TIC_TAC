@@ -1,3 +1,13 @@
+コメント
+METAのチュートリアル：https://ja.reactjs.org/tutorial/tutorial.html#wrapping-up
+2022/01/28　:　チュートリアルを一通り完了した。
+                githubにリポジトリ（react_tutorial_TIC_TAC）を作った。
+                fork(gitクライアント)でLocal Changesからローカルリポジトリにコミット
+                pushでリモートリポジトリにgithubのリポジトリを設定。（SSLだと失敗したけど、HTTPSで成功した）
+                All Comitsから最新のコミットを右クリックしてpushした。
+                ===>リモートリポジトリにpushできた。
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
